@@ -1,7 +1,7 @@
 
 # Detecting and Preventing Spam Messages
 
- This project was part of my undergraduate research experience, and I wrote a paper in which I analyzed the results in more detail. Please feel free to read the [research paper](https://github.com/Raed-Alshehri/ProjectsPortfolio/blob/main/Detecting%20and%20Preventing%20Spam%20Messages/Detecting%20and%20Preventing%20Cyber%20Threats%20Using%20Machine%20Learning%20Techniques.pdf)
+ This project was part of my undergraduate research experience, and I wrote a paper in which I analyzed the results in more detail. Please feel free to read the [research paper](https://github.com/Raed-Alshehri/Detecting-and-Preventing-Spam-Messages/blob/main/Detecting%20and%20Preventing%20Cyber%20Threats%20Using%20Machine%20Learning%20Techniques.pdf)
 
  I used Particle Swarm Algorithm and Genetic Algorithm to optimize the process of predicting spam messages using machine learning. 
  
